@@ -11,3 +11,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-paixao&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-paixao&layout=compact&langs_count=7&theme=react"/>
 </div>
+ 
+ # Diego Paixão
+
+Bacharel em Sistemas de Informação pela Universidade Federal do Piauí, fascinado por tecnologia desde criança, possuo interesse em desenvolvimento de jogos, desenvolvimento web e tudo que diz respeito a hardwares e softwares.
+
+## Redes Sociais
+
+- LinkedIn: [dev-paixao](https://www.linkedin.com/in/dev-paixao/)
+- WhatsApp: [Clique aqui](https://api.whatsapp.com/send?phone=5561995672321)
+- Instagram: [dev_paixao](https://www.instagram.com/dev_paixao/)
+
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dev-paixao&show_icons=true&theme=react&include_all_commits=true&count_private=true)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-paixao&layout=compact&langs_count=7&theme=react)
+
